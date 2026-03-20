@@ -120,7 +120,7 @@ As a result:
 
 This follows the principle of least privilege.
 
-# Other groups configuration
+# Other groups configuration  
 Other groups were created following the same process:
 
 - Finance → Access to Billing dashboard  
